@@ -2,6 +2,7 @@
 # PUBG Mobile Match-Making Database
 
 A comprehensive SQL database design for PUBG Mobile's matchmaking system. This project implements an enhanced matchmaking algorithm considering various player attributes like account level, F/D ratio, region, merit, and more.
+![Logo](https://github.com/negativenagesh/PUBG-Match-Making-Database---SQL/blob/main/bgmi%20logo.jpg)
 
 ## Table of contents
 
@@ -90,7 +91,6 @@ You can contribute to this project by using this schema in backend of the simila
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Logo](https://github.com/negativenagesh/PUBG-Match-Making-Database---SQL/blob/main/bgmi%20logo.jpg)
 
 ## Authors
 
@@ -101,7 +101,3 @@ You can contribute to this project by using this schema in backend of the simila
 
 [Documentation](https://github.com/negativenagesh/PUBG-Match-Making-Database---SQL/blob/main/PUBG%20mobile%20Matchmaking%20Database%20by%20Subrahmanya.docx)
 
-
-## Screenshots
-
-![App Screenshot](https://photos.app.goo.gl/v8XZN2aLeDwaFKxe9)
