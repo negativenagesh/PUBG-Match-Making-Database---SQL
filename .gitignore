@@ -1,0 +1,44 @@
+#Ignore Mac system files
+.DS_Store
+
+#Ignore node_modules
+node_modules/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Ignore MySQL data directory
+/data/
+!data/.gitkeep
+
+# Ignore MySQL config files
+*.cnf
+
+# Ignore temporary files
+tmp/
+*.tmp
+*.bak
+
+# Ignore environment variables files
+.env
+
+# Ignore backups
+*.bak
+*.backup
+
+# Ignore any other database files
+*.sql
+*.db
+*.db-journal
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore OS generated files
+Thumbs.db
+Desktop.ini
